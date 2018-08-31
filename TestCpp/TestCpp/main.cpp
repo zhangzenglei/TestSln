@@ -10,6 +10,6 @@ void display()
 int main()
 {
 	display();
-	cout << " 1234 " << endl;
+	cout << " 12345 " << endl;
 	return 0;
 }
